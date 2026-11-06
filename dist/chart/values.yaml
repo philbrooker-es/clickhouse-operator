@@ -55,7 +55,7 @@ manager:
     ## when set. Empty uses repository as-is.
     ##
     registry: ""
-    repository: ghcr.io/clickhouse/clickhouse-operator
+    repository: 571738151596.dkr.ecr.eu-west-1.amazonaws.com/clickhouse-operator
     ## Digest of the image to use. Tag is used if unset.
     ##
     ## digest: sha256:abc123
